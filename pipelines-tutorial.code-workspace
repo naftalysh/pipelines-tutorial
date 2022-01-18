@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
+		"github.gitAuthentication": true,
 		"github-enterprise.uri": "https://github.com/naftalysh/pipelines-tutorial?organization=naftalysh&organization=naftalysh",
 		"vs-tekton.deploy": true,
 		"vs-tekton.showChannelOutput": true,
