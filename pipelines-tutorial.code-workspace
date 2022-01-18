@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"github-enterprise.uri": "https://github.com/naftalysh/pipelines-tutorial?organization=naftalysh&organization=naftalysh",
+		"vs-tekton.deploy": true,
+		"vs-tekton.showChannelOutput": true,
+		"vs-tekton.showLogInEditor": true
+	}
+}
