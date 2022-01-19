@@ -11,6 +11,7 @@
 		"vs-tekton.showChannelOutput": true,
 		"vs-tekton.showLogInEditor": true,
 		"scm.alwaysShowActions": true,
-		"scm.alwaysShowRepositories": true
+		"scm.alwaysShowRepositories": true,
+		"extensions.ignoreRecommendations": true
 	}
 }
