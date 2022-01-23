@@ -14,7 +14,8 @@
 		"scm.alwaysShowRepositories": true,
 		"extensions.ignoreRecommendations": true,
 		"yaml.schemas": {
-			"kubernetes://schema/v1%40secret": "file:///home/nshprai/tekton/pipelines-tutorial/03_triggers/03_trigger.yaml"
+			"kubernetes://schema/v1%40secret": "file:///home/nshprai/tekton/pipelines-tutorial/03_triggers/03_trigger.yaml",
+			"kubernetes://schema/triggers.tekton.dev/v1beta1@eventlistener": "file:///home/nshprai/tekton/pipelines-tutorial/03_triggers/04_event_listener.yaml"
 		}
 	}
 }
